@@ -1,0 +1,19 @@
+self.pk_sk1 = "몸통박치기" #피카츄
+        self.pk_sk2 = "10만볼트"
+        self.pk_sk3 = "번개"
+        self.pk_sk4 = "볼트태클"
+
+        self.pi_sk1 = "몸통박치기" #파이리
+        self.pi_sk2 = "할퀴기"
+        self.pi_sk3 = "불꽃세례"
+        self.pi_sk4 = "화염방사"
+
+        self.ec_sk1 = "몸통박치기" #이상해씨
+        self.ec_sk2 = "잎날가르기"
+        self.ec_sk3 = "덩쿨채찍"
+        self.ec_sk4 = "솔라빔"
+
+        self.ko_sk1 = "몸통박치기" #꼬부기
+        self.ko_sk2 = "물기"
+        self.ko_sk3 = "물대포"
+        self.ko_sk4 = "하이드로펌프"
